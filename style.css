@@ -1,0 +1,14 @@
+.main{
+    display: grid; 
+    width: 100vw;
+    height: 100vh;
+    place-items: center;
+    background-color:#222 ;
+}
+
+#id-ceque{
+    width: 30vmin;
+    height: auto; 
+    border-radius: 10px;
+}
+
